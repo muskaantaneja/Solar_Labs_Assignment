@@ -136,7 +136,7 @@ def get_nominal_gdp(country):
 # Population
 # GDP
 
-countryName = 'Nepal'
+countryName = 'India'
 
 print(get_capital(countryName))
 print(get_largest_city(countryName))
